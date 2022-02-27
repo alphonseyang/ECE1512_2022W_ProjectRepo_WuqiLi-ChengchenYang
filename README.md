@@ -1,11 +1,11 @@
 # Visual Interpretation of Convolutional Neural Networks
 
-##Content
+## Content
 This repository includes the necessary code and figures for the project A of Course ECE1512.
-##Authors
+## Authors
 ### Wuqi Li 1000393033
 ### Chengchen Yang 1000285880
-##Files
+## Files
 #### MINIST1D.ipynb: notebook for MINIST1D classification task.
 #### HMT.ipynb: notebook for HMT classification task.
 #### minst.ipynb: notebook for HMT classification task.
