@@ -1,4 +1,4 @@
-# Visual Interpretation of Convolutional Neural Networks
+# Knowledge Distillation for Building Lightweight Deep Learning Models in Visual Classification Tasks
 
 ## Content
 This repository includes the necessary code and figures for the project B of Course ECE1512.
